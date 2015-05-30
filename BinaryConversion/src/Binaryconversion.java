@@ -1,7 +1,7 @@
 
 
 import java.util.Scanner;
-
+// first java test
 public class Binaryconversion 
 {
 	private static Scanner kbd=new Scanner (System.in);
@@ -48,7 +48,7 @@ public class Binaryconversion
 		}      
 		
 	
-			
+		// first java project	
 			
 		
 		
